@@ -4,6 +4,7 @@
   Was macht das Projekt?
 
 In diesem Projekt wird eine 7-Segment Anzeige in Unity erstellt.
+
 Die Anzeige besteht aus 7 Balken (Segmenten), die sich auf- und zuklappen, um Zahlen von 0 bis 9 darzustellen.
 Wenn man eine Zahl auf der Tastatur eingibt, klappen die passenden Balken auf, um die Zahl zu zeigen.
 Die Zahl kann man über die Tasten 0 bis 9 und auch über den Nummernblock eingeben.
